@@ -1,0 +1,9 @@
+/* Add your custom styles here */
+#cartItems {
+    max-height: 200px;
+    overflow-y: auto;
+}
+.cart-dropdown {
+    max-height: 300px; /* Set your desired max height */
+    overflow-y: auto;
+}
